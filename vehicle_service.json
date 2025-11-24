@@ -1,0 +1,16 @@
+{
+    "MH01AB1234": {
+        "last_service_date": "2024-11-01",
+        "last_service_km": 12000,
+        "current_km": 21000,
+        "next_service_date": "2025-11-01",
+        "next_service_km": 22000
+    },
+    "DL8CAF0001": {
+        "last_service_date": "2024-06-15",
+        "last_service_km": 45000,
+        "current_km": 54050,
+        "next_service_date": "2025-06-15",
+        "next_service_km": 55000
+    }
+}
